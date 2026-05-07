@@ -25,7 +25,7 @@
 <img 
   align="right" 
   src="https://media.tenor.com/bwGdMh_OSkkAAAAM/isaack.gif" 
-  width="165"
+  width="160"
   style="margin-top: 30px;"
 />
 
